@@ -98,7 +98,7 @@ export default function App() {
 
   return (
     <>
-      <Title>BigBlueButton</Title>
+      <Title>Norteamericano VC</Title>
       { autoSignIn
         ? (
           <Container fluid className="d-flex vh-100 justify-content-center align-items-center">

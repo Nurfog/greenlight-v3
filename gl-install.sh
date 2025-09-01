@@ -37,7 +37,7 @@ usage() {
 Script for installing a Greenlight 3.x standalone server in under 15 minutes. It also supports upgrading an existing installation of Greenlight 3.x on replay.
 
 USAGE:
-    wget -qO- https://raw.githubusercontent.com/bigbluebutton/greenlight/master/gl-install.sh | bash -s -- [OPTIONS]
+    bash -s bbb.norteamericano.cl -e jallende@norteamericano.cl -b bbb.norteamericano.com/bigbluebutton/api/:62HKLWjDIIjcESaIEIYNIggnq4dtuz9GdcBl1TkZY -- [OPTIONS]
 
 OPTIONS (install Greenlight):
 
