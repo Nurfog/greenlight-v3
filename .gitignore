@@ -51,4 +51,4 @@
 .ruby-version
 
 # Ignore environment configuration.
-#.env*
+.env*
